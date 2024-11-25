@@ -4,11 +4,27 @@ var games = [
     title: 'Add custom game',
     image: 'assets/images/add.png'
   },
+
+   {
+    id: 'basketrandom',
+    title: 'Basket random',
+    url: 'https://basketrandom.com/',
+    image: 'https://image.winudf.com/v2/image1/Y29tLnR3b3BsYXllcmdhbWVzLmJhc2tldHJhbmRvbV9zY3JlZW5fNF8xNTg4NjQ4Njg1XzAzMg/screen-4.jpg?fakeurl=1&type=.jpg'
+  },
+
+
+  {
+    id: 'soccerrandom',
+    title: 'Soccer Random',
+    url: 'https://soccerrandom.io/',
+    image: 'https://images.crazygames.com/games/soccer-random/cover-1592583531704.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop'
+  },
+
 {
-    id: 'idlebreakout',
-    title: 'Idle Breakout',
+    id: 'rooftopsnipers',
+    title: 'rooftopsnipers',
     url: 'https://www.gamenora.com/game/rooftop-snipers/',
-    image: 'https://play-lh.googleusercontent.com/e5jzYTn7Mjh9Ghn-DFpVedkOlRfSOyCS2AFgXdTrADIuuUbjx6vP6r_YOM2j5m7uLQ'
+    image: 'https://img.gamedistribution.com/c3a70ae98547407a92ebedca8b79fdfa-512x512.jpeg'
   },
   
   {
@@ -496,7 +512,7 @@ var games = [
   {
     id: 'snowrider',
     title: 'Snow Rider',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/89574567@71f165531792ae450fe0a522a52ba4e827344de2/sr3d.xml',
+    url: 'https://snow-rider.io/',
     image: 'https://lh5.googleusercontent.com/7h-724mAeXnnyC-MA1OA8RI1iaQYgcCZlAt9A8hLk8BLruu0Bu5NCBH1geQJqAUmMztyS4dEIQruPJYgypQTarqr9G4-ydAM8bsQxL2rFL6LUPxbi2JnBEgrWqeg08a9Lg=w1280'
   },
   {
